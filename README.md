@@ -1,9 +1,10 @@
- myfirst
+# myfirst
 myfirst repository to store and write
 i will write on the bioinformatics from monday 23 january
 
 # DAY 1
 installation of git hub
+r stuidio
 
 # DAY2
 introduction to command line
