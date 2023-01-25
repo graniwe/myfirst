@@ -18,8 +18,10 @@ WebYou get one site per GitHub account and organization, and unlimited project s
 Several individuals and organizations took it upon themselves to extend the basic syntax by adding additional elements like tables, code blocks, syntax highlighting, URL auto-linking, and footnotes. These elements can be enabled by using a lightweight markup language that builds upon the basic Markdown syntax, or by adding an extension to a compatible Markdown processor.Nearly all Markdown applications support the basic syntax outlined in the original Markdown design document. There are minor variations and discrepancies between Markdown processors — those are noted inline wherever possible.
 ## Reading materials
 	HTML	Rendered Output
-At the command prompt, type  **  `nano`.	At the command prompt, type  ## <code>nano</code>.	At the command prompt, type nano.
+At the command prompt, type ## nano	At the command prompt, type  ## <code>nano</code>.	At the command prompt, type nano.
 Escaping Backticks
+## control
+
 
 
 
