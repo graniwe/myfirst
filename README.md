@@ -11,10 +11,10 @@ WebYou get one site per GitHub account and organization, and unlimited project s
 
 
 # DAY2
-1.## introduction to command line
+1. ## introduction to command line
 
 # DAY3
-1.## introduction to Github
+1. ## introduction to Github
 Several individuals and organizations took it upon themselves to extend the basic syntax by adding additional elements like tables, code blocks, syntax highlighting, URL auto-linking, and footnotes. These elements can be enabled by using a lightweight markup language that builds upon the basic Markdown syntax, or by adding an extension to a compatible Markdown processor.
 
 
